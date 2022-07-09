@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = "";
+$config['botToken'] = "5330084632:AAFDAkOb5WQJ1ByK-rp6n42wHBnkfU1sLa8";
 
 /*
 |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ $config['adminID'] = "";
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['logsID'] =  "";
+$config['logsID'] =  "@NeKosmic_NK";
 
 /*
 |--------------------------------------------------------------------------
@@ -43,7 +43,7 @@ $config['logsID'] =  "";
 | By Default it's in IST
 |
 */
-$config['timeZone'] =  "Asia/Kolkata";
+$config['timeZone'] =  "Europa/Canary island";
 
 /*
 |--------------------------------------------------------------------------
@@ -54,7 +54,7 @@ $config['timeZone'] =  "Asia/Kolkata";
 */
 $config['db']['hostname'] =  "localhost";
 $config['db']['username'] =  "root";
-$config['db']['password'] =  "";
+$config['db']['password'] =  "NeKosmic-7w7";
 $config['db']['database'] =  "checkerbot";
 
 /*
